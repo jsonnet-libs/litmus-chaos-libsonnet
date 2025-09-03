@@ -88,4 +88,32 @@
          <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/2.9.0/litmuschaos/v1alpha1/chaosSchedule/</loc>
          <lastmod>2025-09-03</lastmod>
     </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/3.20.0/</loc>
+         <lastmod>2025-09-03</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/3.20.0/litmuschaos/</loc>
+         <lastmod>2025-09-03</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/3.20.0/litmuschaos/v1alpha1/</loc>
+         <lastmod>2025-09-03</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/3.20.0/litmuschaos/v1alpha1/chaosEngine/</loc>
+         <lastmod>2025-09-03</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/3.20.0/litmuschaos/v1alpha1/chaosExperiment/</loc>
+         <lastmod>2025-09-03</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/3.20.0/litmuschaos/v1alpha1/chaosResult/</loc>
+         <lastmod>2025-09-03</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/3.20.0/litmuschaos/v1alpha1/chaosSchedule/</loc>
+         <lastmod>2025-09-03</lastmod>
+    </url>
 </urlset>
