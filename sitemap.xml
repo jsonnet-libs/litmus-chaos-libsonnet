@@ -2,97 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-09-03</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/2.10.0/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-09-03</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/2.10.0/litmuschaos/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-09-03</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/2.10.0/litmuschaos/v1alpha1/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-09-03</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/2.10.0/litmuschaos/v1alpha1/chaosEngine/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-09-03</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/2.10.0/litmuschaos/v1alpha1/chaosExperiment/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-09-03</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/2.10.0/litmuschaos/v1alpha1/chaosResult/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-09-03</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/2.10.0/litmuschaos/v1alpha1/chaosSchedule/</loc>
+         <lastmod>2025-09-03</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/2.8.0/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-09-03</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/2.8.0/litmuschaos/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-09-03</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/2.8.0/litmuschaos/v1alpha1/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-09-03</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/2.8.0/litmuschaos/v1alpha1/chaosEngine/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-09-03</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/2.8.0/litmuschaos/v1alpha1/chaosExperiment/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-09-03</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/2.8.0/litmuschaos/v1alpha1/chaosResult/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-09-03</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/2.8.0/litmuschaos/v1alpha1/chaosSchedule/</loc>
+         <lastmod>2025-09-03</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/2.9.0/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-09-03</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/2.9.0/litmuschaos/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-09-03</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/2.9.0/litmuschaos/v1alpha1/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-09-03</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/2.9.0/litmuschaos/v1alpha1/chaosEngine/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-09-03</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/2.9.0/litmuschaos/v1alpha1/chaosExperiment/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-09-03</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/2.9.0/litmuschaos/v1alpha1/chaosResult/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-09-03</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/litmus-chaos-libsonnet/2.9.0/litmuschaos/v1alpha1/chaosSchedule/</loc>
+         <lastmod>2025-09-03</lastmod>
     </url>
 </urlset>
