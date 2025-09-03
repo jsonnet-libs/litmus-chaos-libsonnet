@@ -4,4 +4,5 @@
   chaosEngine: (import 'chaosEngine.libsonnet'),
   chaosExperiment: (import 'chaosExperiment.libsonnet'),
   chaosResult: (import 'chaosResult.libsonnet'),
+  chaosSchedule: (import 'chaosSchedule.libsonnet'),
 }
